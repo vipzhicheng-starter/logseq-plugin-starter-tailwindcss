@@ -1,13 +1,14 @@
-# Webpack Typescript Starter For Logseq Plugin
+# Webpack Typescript Starter For Logseq Plugin With TailwindCSS inside.
 
-[![Github All Releases](https://img.shields.io/github/downloads/vipzhicheng-starter/logseq-plugin-starter/total.svg)](https://github.com/vipzhicheng-starter/logseq-plugin-starter/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/vipzhicheng-starter/logseq-plugin-starter-tailwindcss/total.svg)](https://github.com/vipzhicheng-starter/logseq-plugin-starter-tailwindcss/releases)
 
-A simple webpack typescript starter for Logseq Plugin Development
+A simple webpack typescript starter for Logseq Plugin Development with TailwindCSS inside.
 
 ## What's in it.
 
 * Just a hello world for now.
 * No vue/react included.
+* TailwindCSS inside.
 
 ## How to use it.
 
